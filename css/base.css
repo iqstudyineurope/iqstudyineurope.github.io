@@ -4,7 +4,7 @@
 html,
 body {
   height: 100%;
-  font-size: 18px;
+  font-size: 16px;
   /* The html and body elements cannot have any padding or margin. */
 }
 
@@ -62,3 +62,9 @@ body {
 /*code {
   font-size: 80%;
 }*/
+
+.announcement {
+  background-color:aliceblue;
+  padding:25px;
+  font-weight: bold;
+}
